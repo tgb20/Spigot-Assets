@@ -10,7 +10,7 @@
     },
     {
       "name": "AntiCreeperGrief",
-      "description": "This is a super simple and lightweight plugin designed to be an alternative to the Vanilla Tweaks datapack.",
+      "description": "Creepers cause damage but do not leave holes.",
       "image": "https://raw.githubusercontent.com/tgb20/Spigot-Assets/main/AntiCreeperGrief/AntiCreeperGrief.png",
       "downloadURL": "https://www.spigotmc.org/resources/anticreepergrief.81843/",
       "openSource": true,
@@ -18,7 +18,7 @@
     },
     {
       "name": "AntiEndermanGrief",
-      "description": "This is a super simple and lightweight plugin designed to be an alternative to the Vanilla Tweaks datapack.",
+      "description": "Enderman cannot pickup blocks.",
       "image": "https://raw.githubusercontent.com/tgb20/Spigot-Assets/main/AntiEndermanGrief/AntiEndermanGrief.png",
       "downloadURL": "https://www.spigotmc.org/resources/antiendermangrief.81788/",
       "openSource": true,
@@ -26,7 +26,7 @@
     },
     {
       "name": "AntiGhastGrief",
-      "description": "Ghasts can still cause damage but do not destroy blocks or start fires. This is a super simple and lightweight plugin designed to be an alternative to the Vanilla Tweaks datapack.",
+      "description": "Ghasts can still cause damage but do not destroy blocks or start fires.",
       "image": "https://raw.githubusercontent.com/tgb20/Spigot-Assets/main/AntiGhastGrief/AntiGhastGrief.png",
       "downloadURL": "https://www.spigotmc.org/resources/antighastgrief.81931/",
       "openSource": true,
