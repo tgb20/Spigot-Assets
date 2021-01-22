@@ -1,22 +1,20 @@
 {
-    "tools": [
-        {
-            "name": "Janus",
-            "description":
-              "Janus allows streamers to control their Minecraft servers whitelist using Twitch with watchtime, followage, and subscriptions.",
-            "image": "https://janus.tgb.gg/images/janus.png",
-            "downloadURL": "https://janus.tgb.gg",
-            "openSource": false,
-            "sourceURL": "",
-          },
-          {
-            "name": "AntiCreeperGrief",
-            "description":
-              "Janus allows streamers to control their Minecraft servers whitelist using Twitch with watchtime, followage, and subscriptions.",
-            "image": "https://raw.githubusercontent.com/tgb20/Spigot-Assets/main/AntiCreeperGrief/AntiCreeperGrief.png",
-            "downloadURL": "https://www.spigotmc.org/resources/anticreepergrief.81843/",
-            "openSource": true,
-            "sourceURL": "https://github.com/tgb20/AntiCreeperGrief",
-          }
-    ]
+  "tools": [
+    {
+      "name": "Janus",
+      "description": "Janus allows streamers to control their Minecraft servers whitelist using Twitch with watchtime, followage, and subscriptions.",
+      "image": "https://janus.tgb.gg/images/janus.png",
+      "downloadURL": "https://janus.tgb.gg",
+      "openSource": false,
+      "sourceURL": ""
+    },
+    {
+      "name": "AntiCreeperGrief",
+      "description": "Janus allows streamers to control their Minecraft servers whitelist using Twitch with watchtime, followage, and subscriptions.",
+      "image": "https://raw.githubusercontent.com/tgb20/Spigot-Assets/main/AntiCreeperGrief/AntiCreeperGrief.png",
+      "downloadURL": "https://www.spigotmc.org/resources/anticreepergrief.81843/",
+      "openSource": true,
+      "sourceURL": "https://github.com/tgb20/AntiCreeperGrief"
+    }
+  ]
 }
