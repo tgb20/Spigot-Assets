@@ -10,11 +10,27 @@
     },
     {
       "name": "AntiCreeperGrief",
-      "description": "Janus allows streamers to control their Minecraft servers whitelist using Twitch with watchtime, followage, and subscriptions.",
+      "description": "This is a super simple and lightweight plugin designed to be an alternative to the Vanilla Tweaks datapack.",
       "image": "https://raw.githubusercontent.com/tgb20/Spigot-Assets/main/AntiCreeperGrief/AntiCreeperGrief.png",
       "downloadURL": "https://www.spigotmc.org/resources/anticreepergrief.81843/",
       "openSource": true,
       "sourceURL": "https://github.com/tgb20/AntiCreeperGrief"
+    },
+    {
+      "name": "AntiEndermanGrief",
+      "description": "This is a super simple and lightweight plugin designed to be an alternative to the Vanilla Tweaks datapack.",
+      "image": "https://raw.githubusercontent.com/tgb20/Spigot-Assets/main/AntiEndermanGrief/AntiEndermanGrief.png",
+      "downloadURL": "https://www.spigotmc.org/resources/antiendermangrief.81788/",
+      "openSource": true,
+      "sourceURL": "https://github.com/tgb20/Anti-Enderman-Grief"
+    },
+    {
+      "name": "AntiGhastGrief",
+      "description": "Ghasts can still cause damage but do not destroy blocks or start fires. This is a super simple and lightweight plugin designed to be an alternative to the Vanilla Tweaks datapack.",
+      "image": "https://raw.githubusercontent.com/tgb20/Spigot-Assets/main/AntiGhastGrief/AntiGhastGrief.png",
+      "downloadURL": "https://www.spigotmc.org/resources/antighastgrief.81931/",
+      "openSource": true,
+      "sourceURL": "https://github.com/tgb20/AntiGhastGrief"
     }
   ]
 }
