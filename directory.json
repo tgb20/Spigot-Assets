@@ -7,7 +7,13 @@
       "downloadURL": "https://janus.tgb.gg",
       "openSource": false,
       "sourceURL": "",
-      "toolType": "Plugin"
+      "toolType": "Plugin",
+      "options": [
+        {
+          "name": "Website",
+          "link": "https://janus.tgb.gg"
+        }
+      ]
     },
     {
       "name": "AntiCreeperGrief",
@@ -16,7 +22,17 @@
       "downloadURL": "https://www.spigotmc.org/resources/anticreepergrief.81843/",
       "openSource": true,
       "sourceURL": "https://github.com/tgb20/AntiCreeperGrief",
-      "toolType": "Plugin"
+      "toolType": "Plugin",
+      "options": [
+        {
+          "name": "SpigotMC",
+          "link": "https://www.spigotmc.org/resources/anticreepergrief.81843/"
+        },
+        {
+          "name": "Source",
+          "link": "https://github.com/tgb20/AntiCreeperGrief"
+        }
+      ]
     },
     {
       "name": "AntiEndermanGrief",
@@ -25,7 +41,17 @@
       "downloadURL": "https://www.spigotmc.org/resources/antiendermangrief.81788/",
       "openSource": true,
       "sourceURL": "https://github.com/tgb20/Anti-Enderman-Grief",
-      "toolType": "Plugin"
+      "toolType": "Plugin",
+      "options": [
+        {
+          "name": "SpigotMC",
+          "link": "https://www.spigotmc.org/resources/antiendermangrief.81788/"
+        },
+        {
+          "name": "Source",
+          "link": "https://github.com/tgb20/Anti-Enderman-Grief"
+        }
+      ]
     },
     {
       "name": "AntiGhastGrief",
@@ -34,7 +60,17 @@
       "downloadURL": "https://www.spigotmc.org/resources/antighastgrief.81931/",
       "openSource": true,
       "sourceURL": "https://github.com/tgb20/AntiGhastGrief",
-      "toolType": "Plugin"
+      "toolType": "Plugin",
+      "options": [
+        {
+          "name": "SpigotMC",
+          "link": "https://www.spigotmc.org/resources/antighastgrief.81931/"
+        },
+        {
+          "name": "Source",
+          "link": "https://github.com/tgb20/AntiGhastGrief"
+        }
+      ]
     }
   ]
 }
