@@ -3,7 +3,7 @@
     {
       "name": "Janus",
       "description": "Janus allows streamers to control their Minecraft servers whitelist using Twitch with watchtime, followage, and subscriptions.",
-      "image": "https://janus.tgb.gg/images/janus.png",
+      "image": "https://raw.githubusercontent.com/tgb20/Spigot-Assets/main/Janus/Janus.webp",
       "downloadURL": "https://janus.tgb.gg",
       "openSource": false,
       "sourceURL": "",
@@ -18,7 +18,7 @@
     {
       "name": "AntiCreeperGrief",
       "description": "Creepers cause damage but do not leave holes.",
-      "image": "https://raw.githubusercontent.com/tgb20/Spigot-Assets/main/AntiCreeperGrief/AntiCreeperGrief.png",
+      "image": "https://raw.githubusercontent.com/tgb20/Spigot-Assets/main/AntiCreeperGrief/AntiCreeperGrief.webp",
       "downloadURL": "https://www.spigotmc.org/resources/anticreepergrief.81843/",
       "openSource": true,
       "sourceURL": "https://github.com/tgb20/AntiCreeperGrief",
@@ -37,7 +37,7 @@
     {
       "name": "AntiEndermanGrief",
       "description": "Enderman cannot pickup blocks.",
-      "image": "https://raw.githubusercontent.com/tgb20/Spigot-Assets/main/AntiEndermanGrief/AntiEndermanGrief.png",
+      "image": "https://raw.githubusercontent.com/tgb20/Spigot-Assets/main/AntiEndermanGrief/AntiEndermanGrief.webp",
       "downloadURL": "https://www.spigotmc.org/resources/antiendermangrief.81788/",
       "openSource": true,
       "sourceURL": "https://github.com/tgb20/Anti-Enderman-Grief",
@@ -56,7 +56,7 @@
     {
       "name": "AntiGhastGrief",
       "description": "Ghasts can still cause damage but do not destroy blocks or start fires.",
-      "image": "https://raw.githubusercontent.com/tgb20/Spigot-Assets/main/AntiGhastGrief/AntiGhastGrief.png",
+      "image": "https://raw.githubusercontent.com/tgb20/Spigot-Assets/main/AntiGhastGrief/AntiGhastGrief.webp",
       "downloadURL": "https://www.spigotmc.org/resources/antighastgrief.81931/",
       "openSource": true,
       "sourceURL": "https://github.com/tgb20/AntiGhastGrief",
