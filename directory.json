@@ -4,9 +4,6 @@
       "name": "Janus",
       "description": "Janus allows streamers to control their Minecraft servers whitelist using Twitch with watchtime, followage, and subscriptions.",
       "image": "https://raw.githubusercontent.com/tgb20/Spigot-Assets/main/Janus/Janus.webp",
-      "downloadURL": "https://janus.tgb.gg",
-      "openSource": false,
-      "sourceURL": "",
       "toolType": "Plugin",
       "options": [
         {
@@ -19,9 +16,6 @@
       "name": "AntiCreeperGrief",
       "description": "Creepers cause damage but do not leave holes.",
       "image": "https://raw.githubusercontent.com/tgb20/Spigot-Assets/main/AntiCreeperGrief/AntiCreeperGrief.webp",
-      "downloadURL": "https://www.spigotmc.org/resources/anticreepergrief.81843/",
-      "openSource": true,
-      "sourceURL": "https://github.com/tgb20/AntiCreeperGrief",
       "toolType": "Plugin",
       "options": [
         {
@@ -38,9 +32,6 @@
       "name": "AntiEndermanGrief",
       "description": "Enderman cannot pickup blocks.",
       "image": "https://raw.githubusercontent.com/tgb20/Spigot-Assets/main/AntiEndermanGrief/AntiEndermanGrief.webp",
-      "downloadURL": "https://www.spigotmc.org/resources/antiendermangrief.81788/",
-      "openSource": true,
-      "sourceURL": "https://github.com/tgb20/Anti-Enderman-Grief",
       "toolType": "Plugin",
       "options": [
         {
@@ -57,9 +48,6 @@
       "name": "AntiGhastGrief",
       "description": "Ghasts can still cause damage but do not destroy blocks or start fires.",
       "image": "https://raw.githubusercontent.com/tgb20/Spigot-Assets/main/AntiGhastGrief/AntiGhastGrief.webp",
-      "downloadURL": "https://www.spigotmc.org/resources/antighastgrief.81931/",
-      "openSource": true,
-      "sourceURL": "https://github.com/tgb20/AntiGhastGrief",
       "toolType": "Plugin",
       "options": [
         {
@@ -69,6 +57,18 @@
         {
           "name": "Source",
           "link": "https://github.com/tgb20/AntiGhastGrief"
+        }
+      ]
+    },
+    {
+      "name": "VoidSafe",
+      "description": "This plugin prevents players from losing items when falling into the void. Because of the way the /kill command works it also saves their items when that command runs. If you need to kill and clear someones inventory run the clear command after.",
+      "image": "https://raw.githubusercontent.com/tgb20/Spigot-Assets/main/VoidSafe/VoidSafe.webp",
+      "toolType": "Plugin",
+      "options": [
+        {
+          "name": "SpigotMC",
+          "link": "https://www.spigotmc.org/resources/voidsafe.87147/"
         }
       ]
     }
