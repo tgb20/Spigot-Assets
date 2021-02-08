@@ -71,6 +71,18 @@
           "link": "https://www.spigotmc.org/resources/voidsafe.87147/"
         }
       ]
+    },
+    {
+      "name": "HidePlayerList",
+      "description": "HidePlayerList allows you to disable the ability for people to see what players are online on your server.",
+      "image": "https://raw.githubusercontent.com/tgb20/Spigot-Assets/main/HidePlayerList/HidePlayerList.webp",
+      "toolType": "Plugin",
+      "options": [
+        {
+          "name": "SpigotMC",
+          "link": "https://www.spigotmc.org/resources/hideplayerlist.87979/"
+        }
+      ]
     }
   ]
 }
